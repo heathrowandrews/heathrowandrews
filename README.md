@@ -1,43 +1,35 @@
-# 👋 Hey, I'm Heathrow Andrews
+# Hey, I'm Heathrow Andrews
 
-**Web Developer · Entrepreneur · Podcast Host**  
-Portland, OR 🌲
+**AI Builder | Agent Architect | Portland, OR**
 
-I build clean, fast websites for businesses and creators — no templates, no bloat. Just hand-coded HTML/CSS/JS deployed on Cloudflare Pages.
-
----
-
-## 🔨 Recent Builds
-
-| Project | Description | Stack | Live Site |
-|---------|-------------|-------|-----------|
-| **[podcastmaterialpodcast.com](https://github.com/heathrowandrews/podcastmaterialpodcast.com)** | Podcast landing page with inline audio player, episode catalog, SEO | HTML · CSS · JS · Cloudflare Pages | [podcastmaterialpodcast.com](https://podcastmaterialpodcast.com) |
-| **[heathrowandrews.com](https://github.com/heathrowandrews/heathrowandrews.com)** | Personal brand & portfolio site | HTML · CSS · JS · Cloudflare Pages | [heathrowandrews.com](https://heathrowandrews.com) |
+I build AI agents and tools that give solopreneurs and small businesses capabilities that used to require entire teams. I believe anyone can build — and I'm proving it.
 
 ---
 
-## 🎙️ Podcast Material Podcast
+## What I'm Building
 
-Co-host of **[Podcast Material](https://podcastmaterialpodcast.com)** with my best friend Ethan — 20+ years of friendship, authentic conversations, and way too many hot takes.
+**[Bloom](https://thaliabloom.com)** — AI agent services for solopreneurs. A suite of autonomous agents that handle marketing, support, shopping, media generation, and executive assistance.
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/64ySdMO3oOhUVsyc7LJHGH)
-[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/podcast-material/id1798140585)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Podcast_Material_Podcast)
+**[Trailer Park Cat](https://github.com/heathrowandrews/trailer-park-cat)** — A 3D open-world cat game built with React Three.js and Rapier physics. Because not everything has to be serious.
 
----
-
-## 🛠️ What I Work With
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+**[OpenClaw Quest](https://github.com/heathrowandrews/openclaw-quest)** — A Game Boy-style RPG that connects to a live AI agent ecosystem.
 
 ---
 
-## 📬 Get In Touch
+## The Stack
 
-- 🌐 [heathrowandrews.com](https://heathrowandrews.com)
-- 📧 projects@heathrowandrews.com
-- 📸 [Instagram](https://www.instagram.com/podcast_material_podcast/)
-- 🎵 [TikTok](https://www.tiktok.com/@podcast.material.podcast)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
+
+---
+
+## Get In Touch
+
+- [thaliabloom.com](https://thaliabloom.com)
+- [heathrowandrews.com](https://heathrowandrews.com)
