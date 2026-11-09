@@ -1,35 +1,24 @@
 # Hey, I'm Heathrow Andrews
 
-**AI Builder | Agent Architect | Portland, OR**
+**Builder | Portland, OR**
 
-I build AI agents and tools that give solopreneurs and small businesses capabilities that used to require entire teams. I believe anyone can build — and I'm proving it.
-
----
-
-## What I'm Building
-
-**[Bloom](https://thaliabloom.com)** — AI agent services for solopreneurs. A suite of autonomous agents that handle marketing, support, shopping, media generation, and executive assistance.
-
-**[Trailer Park Cat](https://github.com/heathrowandrews/trailer-park-cat)** — A 3D open-world cat game built with React Three.js and Rapier physics. Because not everything has to be serious.
-
-**[OpenClaw Quest](https://github.com/heathrowandrews/openclaw-quest)** — A Game Boy-style RPG that connects to a live AI agent ecosystem.
+Building since 2010: online stores, hands-on trades and contracting crews, and now practical systems and software that take recurring busywork off a business owner's plate.
 
 ---
 
-## The Stack
+## Live Projects & Tools
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
+- **[heathrowandrews.dev](https://heathrowandrews.dev)** · How I build, fixed-scope two-week systems pilots ($750), and current software on the bench
+- **[heathrowandrews.com](https://heathrowandrews.com)** · My story, woodworking, and backyard garden & DIY projects
+- **[Usage HUD](https://hud.thaliabloom.com)** ([source](https://github.com/Thalia-Bloom/usage-hud)) · Native macOS menu-bar meter for Claude, Codex, Gemini, Grok, and local models
+- **[Claude Usage Check](https://github.com/Thalia-Bloom/claude-usage-check)** · Free local-only CLI check for official limits, reset times, and pace
+- **[Pattern Stitch](https://stitch.thaliabloom.com)** · Browser tool that combines tiled A4/Letter PDF sewing patterns into one print-shop sheet
 
 ---
 
-## Get In Touch
+## Links
 
-- [thaliabloom.com](https://thaliabloom.com)
-- [heathrowandrews.com](https://heathrowandrews.com)
+- **Developer Portfolio:** [heathrowandrews.dev](https://heathrowandrews.dev)
+- **Personal & Craft:** [heathrowandrews.com](https://heathrowandrews.com)
+- **YouTube:** [@heathrowandrews](https://www.youtube.com/@heathrowandrews)
+- **TikTok:** [@heathrowsgarden](https://www.tiktok.com/@heathrowsgarden)
